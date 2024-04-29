@@ -1,34 +1,23 @@
-# <html>
-    <body>
-        <main>
-            <h1>Furniture sale - 30% off everything!</h1>
-            <p class="gallery"><img src="/uploads/2020/12/desk-5815919_640_0_1608741873.png"/><img src="/uploads/2020/12/bookshelf-32811_640_0_1608741873.png"/><img src="/uploads/2020/12/settee-147701_640_0_1608741872.png"/><img src="/uploads/2020/12/dining-table-4462069_640_0_1608742409.png"/></p>
-        </main>
-    </body>
-</html>
+<html>
+    <h1>ANIMALS</h1>
 
+    <tr>
+        <td>Dogs,</td>
+        <td>Cats,</td>
+        <td>Cow,</td>
+        <td>Horse.</td>
 
-  body {
-    font-family: sans-serif;
-}
+    </tr>
 
-h1 {
-    text-align: center;
-    font-size: 40px;
-    background-color: firebrick;
-    color: white;
-    margin:20px 10px 0px 10px;
-}
+    <h1>INSECTS</h1>
 
-img {
-    height: 140px;
-    border: 1px solid black;
-    background-color: white;
-    margin: 10px;
-    padding: 5px;
-}
+    <tr>
 
-.gallery {
-    background-color: lightgray;
-    padding: 25px;
-}
+        <td>Butterfly,</td>
+        <td>Fly,</td>
+        <td>Ant,</td>
+        <td>Beetle.</td>
+
+        </tr>
+
+        </html>
